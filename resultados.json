@@ -1,0 +1,566 @@
+{
+    "intervening": [
+        {
+            "caption": "a group of people are talking at an intervention",
+            "video_id": "video1642",
+            "score": 0.4841,
+            "audio_file": "audio\\intervening_32841.mp3"
+        },
+        {
+            "caption": "interaction between the people",
+            "video_id": "video5318",
+            "score": 0.4502,
+            "audio_file": "audio\\intervening_106372.mp3"
+        },
+        {
+            "caption": "one man providing aid to another",
+            "video_id": "video2921",
+            "score": 0.3993,
+            "audio_file": "audio\\intervening_58437.mp3"
+        },
+        {
+            "caption": "people are trying to save one another in a crisis",
+            "video_id": "video1446",
+            "score": 0.3848,
+            "audio_file": "audio\\intervening_28934.mp3"
+        },
+        {
+            "caption": "a discussion between people",
+            "video_id": "video4533",
+            "score": 0.3814,
+            "audio_file": "audio\\intervening_90663.mp3"
+        }
+    ],
+    "questioning": [
+        {
+            "caption": "the interviewer asks a question",
+            "video_id": "video2498",
+            "score": 0.5948,
+            "audio_file": "audio\\questioning_49976.mp3"
+        },
+        {
+            "caption": "a person is asking a question",
+            "video_id": "video2064",
+            "score": 0.5833,
+            "audio_file": "audio\\questioning_41284.mp3"
+        },
+        {
+            "caption": "a guy is questioning another guy",
+            "video_id": "video4039",
+            "score": 0.5624,
+            "audio_file": "audio\\questioning_80782.mp3"
+        },
+        {
+            "caption": "woman asking a question",
+            "video_id": "video3126",
+            "score": 0.5482,
+            "audio_file": "audio\\questioning_62536.mp3"
+        },
+        {
+            "caption": "man interviewing and asking ladies questions",
+            "video_id": "video5371",
+            "score": 0.547,
+            "audio_file": "audio\\questioning_107435.mp3"
+        }
+    ],
+    "fluted": [
+        {
+            "caption": "people irritated by flute playing",
+            "video_id": "video294",
+            "score": 0.5657,
+            "audio_file": "audio\\fluted_5893.mp3"
+        },
+        {
+            "caption": "an animated musician is blowing a flute",
+            "video_id": "video294",
+            "score": 0.5431,
+            "audio_file": "audio\\fluted_5899.mp3"
+        },
+        {
+            "caption": "a woman is holding a flute and playing on it",
+            "video_id": "video1820",
+            "score": 0.5149,
+            "audio_file": "audio\\fluted_36416.mp3"
+        },
+        {
+            "caption": "a girl playing a flute",
+            "video_id": "video6126",
+            "score": 0.5127,
+            "audio_file": "audio\\fluted_122522.mp3"
+        },
+        {
+            "caption": "a girl playing a hand flute",
+            "video_id": "video6068",
+            "score": 0.5056,
+            "audio_file": "audio\\fluted_121367.mp3"
+        }
+    ],
+    "sorted": [
+        {
+            "caption": "people working and sorting",
+            "video_id": "video552",
+            "score": 0.4317,
+            "audio_file": "audio\\sorted_11056.mp3"
+        },
+        {
+            "caption": "person sorts through seeds",
+            "video_id": "video477",
+            "score": 0.3928,
+            "audio_file": "audio\\sorted_9553.mp3"
+        },
+        {
+            "caption": "this is a video of a guy ordering something",
+            "video_id": "video844",
+            "score": 0.3595,
+            "audio_file": "audio\\sorted_16897.mp3"
+        },
+        {
+            "caption": "a couple of people talking to each other followed by a look at people sorting apples",
+            "video_id": "video552",
+            "score": 0.3559,
+            "audio_file": "audio\\sorted_11041.mp3"
+        },
+        {
+            "caption": "someone is sorting through files in a computer program",
+            "video_id": "video2225",
+            "score": 0.3421,
+            "audio_file": "audio\\sorted_44510.mp3"
+        }
+    ],
+    "squarish": [
+        {
+            "caption": "sqidward has a smile on his face",
+            "video_id": "video180",
+            "score": 0.4862,
+            "audio_file": "audio\\squarish_3615.mp3"
+        },
+        {
+            "caption": "bunch of kids tlaking about square",
+            "video_id": "video6019",
+            "score": 0.4717,
+            "audio_file": "audio\\squarish_120383.mp3"
+        },
+        {
+            "caption": "squdward catches spongebob in a trash can",
+            "video_id": "video2357",
+            "score": 0.4281,
+            "audio_file": "audio\\squarish_47153.mp3"
+        },
+        {
+            "caption": "square people doing things",
+            "video_id": "video5199",
+            "score": 0.4264,
+            "audio_file": "audio\\squarish_103996.mp3"
+        },
+        {
+            "caption": "a cartoon about spongebob sqaurepants",
+            "video_id": "video1472",
+            "score": 0.4172,
+            "audio_file": "audio\\squarish_29442.mp3"
+        }
+    ],
+    "knifes": [
+        {
+            "caption": "the collection of knifes",
+            "video_id": "video2277",
+            "score": 0.7732,
+            "audio_file": "audio\\knifes_45555.mp3"
+        },
+        {
+            "caption": "someone talking about kitchen knives",
+            "video_id": "video892",
+            "score": 0.6924,
+            "audio_file": "audio\\knifes_17855.mp3"
+        },
+        {
+            "caption": "someone is describing kitchen knives",
+            "video_id": "video892",
+            "score": 0.6814,
+            "audio_file": "audio\\knifes_17854.mp3"
+        },
+        {
+            "caption": "knives are on a table",
+            "video_id": "video892",
+            "score": 0.6133,
+            "audio_file": "audio\\knifes_17852.mp3"
+        },
+        {
+            "caption": "three knifes on a table",
+            "video_id": "video892",
+            "score": 0.6099,
+            "audio_file": "audio\\knifes_17858.mp3"
+        }
+    ],
+    "rudolph": [
+        {
+            "caption": "a parody of rudolph the red nosed reindeer about nfl quarterback t",
+            "video_id": "video778",
+            "score": 0.6462,
+            "audio_file": "audio\\rudolph_15568.mp3"
+        },
+        {
+            "caption": "a parody of rudolph plays about the nfl",
+            "video_id": "video778",
+            "score": 0.6393,
+            "audio_file": "audio\\rudolph_15567.mp3"
+        },
+        {
+            "caption": "a christmas video with santa and reindeer",
+            "video_id": "video2763",
+            "score": 0.6044,
+            "audio_file": "audio\\rudolph_55268.mp3"
+        },
+        {
+            "caption": "a song parody of rudolph the red nosed reindeer about a football player",
+            "video_id": "video778",
+            "score": 0.5901,
+            "audio_file": "audio\\rudolph_15572.mp3"
+        },
+        {
+            "caption": "a christmas cartoon about snowman and santa",
+            "video_id": "video2763",
+            "score": 0.5683,
+            "audio_file": "audio\\rudolph_55265.mp3"
+        }
+    ],
+    "pommel": [
+        {
+            "caption": "two video game characters pummeling each other",
+            "video_id": "video4352",
+            "score": 0.4718,
+            "audio_file": "audio\\pommel_87059.mp3"
+        },
+        {
+            "caption": "a gymnast crashes into a pommel horse",
+            "video_id": "video6607",
+            "score": 0.4515,
+            "audio_file": "audio\\pommel_132144.mp3"
+        },
+        {
+            "caption": "a character with a pick axe",
+            "video_id": "video4863",
+            "score": 0.4389,
+            "audio_file": "audio\\pommel_97261.mp3"
+        },
+        {
+            "caption": "the green hulk with a muscular body and a pair of gray seats",
+            "video_id": "video6204",
+            "score": 0.4269,
+            "audio_file": "audio\\pommel_124093.mp3"
+        },
+        {
+            "caption": "squidward has pom poms",
+            "video_id": "video2357",
+            "score": 0.4258,
+            "audio_file": "audio\\pommel_47155.mp3"
+        }
+    ],
+    "discussion": [
+        {
+            "caption": "some discussion is going on",
+            "video_id": "video30",
+            "score": 0.7629,
+            "audio_file": "audio\\discussion_618.mp3"
+        },
+        {
+            "caption": "a discussion is taking place",
+            "video_id": "video2251",
+            "score": 0.7145,
+            "audio_file": "audio\\discussion_45021.mp3"
+        },
+        {
+            "caption": "a discussion between people",
+            "video_id": "video4533",
+            "score": 0.7117,
+            "audio_file": "audio\\discussion_90663.mp3"
+        },
+        {
+            "caption": "discussion going on in a show",
+            "video_id": "video1189",
+            "score": 0.6411,
+            "audio_file": "audio\\discussion_23790.mp3"
+        },
+        {
+            "caption": "debate between many people",
+            "video_id": "video2280",
+            "score": 0.6238,
+            "audio_file": "audio\\discussion_45615.mp3"
+        }
+    ],
+    "each": [
+        {
+            "caption": "each individual here is giving their openions",
+            "video_id": "video6608",
+            "score": 0.3933,
+            "audio_file": "audio\\each_132172.mp3"
+        },
+        {
+            "caption": "the three are interrelating to express something",
+            "video_id": "video2149",
+            "score": 0.3852,
+            "audio_file": "audio\\each_42989.mp3"
+        },
+        {
+            "caption": "several tanks of saltwater fish and and a tank of sharks",
+            "video_id": "video2062",
+            "score": 0.3754,
+            "audio_file": "audio\\each_41246.mp3"
+        },
+        {
+            "caption": "picture of different guys",
+            "video_id": "video1941",
+            "score": 0.3605,
+            "audio_file": "audio\\each_38833.mp3"
+        },
+        {
+            "caption": "an orange sports car a black sports car a gray sports car and another orange sports car drive down different streets",
+            "video_id": "video1190",
+            "score": 0.3474,
+            "audio_file": "audio\\each_23807.mp3"
+        }
+    ],
+    "": [
+        {
+            "caption": "the advertisement on the screen",
+            "video_id": "video3987",
+            "score": 0.4051,
+            "audio_file": "audio\\_79759.mp3"
+        },
+        {
+            "caption": "an advertisement for fifa 2014",
+            "video_id": "video1077",
+            "score": 0.3977,
+            "audio_file": "audio\\_21549.mp3"
+        },
+        {
+            "caption": "advertisement for broadcasting",
+            "video_id": "video739",
+            "score": 0.3936,
+            "audio_file": "audio\\_14791.mp3"
+        },
+        {
+            "caption": "this is an advertisement",
+            "video_id": "video2338",
+            "score": 0.3898,
+            "audio_file": "audio\\_46776.mp3"
+        },
+        {
+            "caption": "a advertisement about something",
+            "video_id": "video4225",
+            "score": 0.3841,
+            "audio_file": "audio\\_84501.mp3"
+        }
+    ],
+    "fan": [
+        {
+            "caption": "a person explain about the fan",
+            "video_id": "video2073",
+            "score": 0.7062,
+            "audio_file": "audio\\fan_41471.mp3"
+        },
+        {
+            "caption": "a fan is showed in the screen",
+            "video_id": "video211",
+            "score": 0.5997,
+            "audio_file": "audio\\fan_4223.mp3"
+        },
+        {
+            "caption": "the woman turned on the fan",
+            "video_id": "video1129",
+            "score": 0.5238,
+            "audio_file": "audio\\fan_22599.mp3"
+        },
+        {
+            "caption": "a knife man uses a fan man to fan a trophy man",
+            "video_id": "video3719",
+            "score": 0.5221,
+            "audio_file": "audio\\fan_74388.mp3"
+        },
+        {
+            "caption": "a fan has run onto the field",
+            "video_id": "video5830",
+            "score": 0.5216,
+            "audio_file": "audio\\fan_116603.mp3"
+        }
+    ],
+    "love": [
+        {
+            "caption": "a character hunting for love",
+            "video_id": "video6659",
+            "score": 0.5075,
+            "audio_file": "audio\\love_133183.mp3"
+        },
+        {
+            "caption": "a music about love",
+            "video_id": "video2969",
+            "score": 0.4734,
+            "audio_file": "audio\\love_59384.mp3"
+        },
+        {
+            "caption": "different forms of love is shown here",
+            "video_id": "video2969",
+            "score": 0.4692,
+            "audio_file": "audio\\love_59400.mp3"
+        },
+        {
+            "caption": "an unexpected love story",
+            "video_id": "video3032",
+            "score": 0.458,
+            "audio_file": "audio\\love_60652.mp3"
+        },
+        {
+            "caption": "a song for the love romance",
+            "video_id": "video5228",
+            "score": 0.45,
+            "audio_file": "audio\\love_104564.mp3"
+        }
+    ],
+    "movie": [
+        {
+            "caption": "a scene of a movie",
+            "video_id": "video3779",
+            "score": 0.669,
+            "audio_file": "audio\\movie_75591.mp3"
+        },
+        {
+            "caption": "a scene for a movie",
+            "video_id": "video3857",
+            "score": 0.6363,
+            "audio_file": "audio\\movie_77145.mp3"
+        },
+        {
+            "caption": "a hollywood movie scene",
+            "video_id": "video2846",
+            "score": 0.6358,
+            "audio_file": "audio\\movie_56924.mp3"
+        },
+        {
+            "caption": "scene from a movie",
+            "video_id": "video4977",
+            "score": 0.6326,
+            "audio_file": "audio\\movie_99553.mp3"
+        }
+    ],
+    "family": [
+        {
+            "caption": "a man with family",
+            "video_id": "video2485",
+            "score": 0.6758,
+            "audio_file": "audio\\family_49708.mp3"
+        },
+        {
+            "caption": "a family in a house hanging out",
+            "video_id": "video2546",
+            "score": 0.6568,
+            "audio_file": "audio\\family_50921.mp3"
+        },
+        {
+            "caption": "a family is talking",
+            "video_id": "video4270",
+            "score": 0.6468,
+            "audio_file": "audio\\family_85401.mp3"
+        },
+        {
+            "caption": "a family having a reunion",
+            "video_id": "video1808",
+            "score": 0.6262,
+            "audio_file": "audio\\family_36162.mp3"
+        },
+        {
+            "caption": "family and friends fun",
+            "video_id": "video3139",
+            "score": 0.6223,
+            "audio_file": "audio\\family_62794.mp3"
+        }
+    ],
+    "tv shows": [
+        {
+            "caption": "some of tv show",
+            "video_id": "video5806",
+            "score": 0.8338,
+            "audio_file": "audio\\tv shows_116138.mp3"
+        },
+        {
+            "caption": "television show on a tv",
+            "video_id": "video6735",
+            "score": 0.8177,
+            "audio_file": "audio\\tv shows_134718.mp3"
+        },
+        {
+            "caption": "a tv game show",
+            "video_id": "video4937",
+            "score": 0.7187,
+            "audio_file": "audio\\tv shows_98748.mp3"
+        },
+        {
+            "caption": "a children s tv show",
+            "video_id": "video1416",
+            "score": 0.7058,
+            "audio_file": "audio\\tv shows_28325.mp3"
+        },
+        {
+            "caption": "a scroll of different television shows",
+            "video_id": "video6246",
+            "score": 0.684,
+            "audio_file": "audio\\tv shows_124925.mp3"
+        }
+    ],
+    "music": [
+        {
+            "caption": "some music is playing",
+            "video_id": "video96",
+            "score": 0.6995,
+            "audio_file": "audio\\music_1939.mp3"
+        },
+        {
+            "caption": "pictures and music playing",
+            "video_id": "video11",
+            "score": 0.691,
+            "audio_file": "audio\\music_232.mp3"
+        },
+        {
+            "caption": "it is about a music",
+            "video_id": "video2316",
+            "score": 0.6832,
+            "audio_file": "audio\\music_46336.mp3"
+        },
+        {
+            "caption": "a music video",
+            "video_id": "video1974",
+            "score": 0.6818,
+            "audio_file": "audio\\music_39488.mp3"
+        },
+        {
+            "caption": "about music and dance",
+            "video_id": "video2025",
+            "score": 0.6609,
+            "audio_file": "audio\\music_40511.mp3"
+        }
+    ],
+    "people": [
+        {
+            "caption": "some people doing the kinds of things that people do",
+            "video_id": "video5317",
+            "score": 0.6839,
+            "audio_file": "audio\\people_106351.mp3"
+        },
+        {
+            "caption": "some people are doing thing",
+            "video_id": "video3315",
+            "score": 0.679,
+            "audio_file": "audio\\people_66316.mp3"
+        },
+        {
+            "caption": "people are doing various things",
+            "video_id": "video2631",
+            "score": 0.6558,
+            "audio_file": "audio\\people_52631.mp3"
+        },
+        {
+            "caption": "a group of people are interacting",
+            "video_id": "video5311",
+            "score": 0.6502,
+            "audio_file": "audio\\people_106223.mp3"
+        }
+    ]
+}

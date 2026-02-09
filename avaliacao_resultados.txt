@@ -1,0 +1,81 @@
+=== Avaliação do Sistema ===
+
+Consulta: intervening
+Similaridade média (busca): 0.42
+Score mínimo: 0.38, máximo: 0.48, desvio: 0.04
+Duração média dos áudios: 2.66 s
+Energia RMS média: 3.33
+Loudness médio: -19.93 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: questioning
+Similaridade média (busca): 0.57
+Score mínimo: 0.55, máximo: 0.59, desvio: 0.02
+Duração média dos áudios: 2.56 s
+Energia RMS média: 3.33
+Loudness médio: -19.90 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: fluted
+Similaridade média (busca): 0.53
+Score mínimo: 0.51, máximo: 0.57, desvio: 0.02
+Duração média dos áudios: 2.55 s
+Energia RMS média: 3.88
+Loudness médio: -18.54 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: sorted
+Similaridade média (busca): 0.38
+Score mínimo: 0.34, máximo: 0.43, desvio: 0.03
+Duração média dos áudios: 3.29 s
+Energia RMS média: 3.35
+Loudness médio: -19.84 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: squarish
+Similaridade média (busca): 0.45
+Score mínimo: 0.42, máximo: 0.49, desvio: 0.03
+Duração média dos áudios: 2.98 s
+Energia RMS média: 3.33
+Loudness médio: -19.90 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: knifes
+Similaridade média (busca): 0.67
+Score mínimo: 0.61, máximo: 0.77, desvio: 0.06
+Duração média dos áudios: 2.22 s
+Energia RMS média: 3.25
+Loudness médio: -20.11 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: rudolph
+Similaridade média (busca): 0.61
+Score mínimo: 0.57, máximo: 0.65, desvio: 0.03
+Duração média dos áudios: 4.10 s
+Energia RMS média: 3.61
+Loudness médio: -19.17 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: pommel
+Similaridade média (busca): 0.44
+Score mínimo: 0.43, máximo: 0.47, desvio: 0.02
+Duração média dos áudios: 3.11 s
+Energia RMS média: 3.23
+Loudness médio: -20.16 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: discussion
+Similaridade média (busca): 0.69
+Score mínimo: 0.62, máximo: 0.76, desvio: 0.05
+Duração média dos áudios: 2.24 s
+Energia RMS média: 3.44
+Loudness médio: -19.62 dBFS
+Taxa de silêncio: 0.00
+
+Consulta: each
+Similaridade média (busca): 0.37
+Score mínimo: 0.35, máximo: 0.39, desvio: 0.02
+Duração média dos áudios: 4.21 s
+Energia RMS média: 3.41
+Loudness médio: -19.67 dBFS
+Taxa de silêncio: 0.00
